@@ -1,3 +1,4 @@
+<img src="https://github.com/kaveejayalath/kaveejayalath/blob/main/?raw=true" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Kaveendya Sathsarani</h1>
 <h3 align="center">Passionate about Management, IT, System Design & Developer Sri Lanka 🇱🇰</h3>
