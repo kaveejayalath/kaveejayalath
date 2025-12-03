@@ -78,4 +78,23 @@
   </tr>
 </table>
 
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaveejayalath&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">📈 Top Languages</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaveejayalath&theme=github_dark" alt="Top Languages" />
+</p>
+
+
+<h3 align="center">📅 GitHub Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaveejayalath&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+
+
+
 
